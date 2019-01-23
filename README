@@ -19,6 +19,13 @@ necessary as root):
     make clean install
 
 
+Applied Patches
+---------------
+
+  - Alpha patch for transparency (Must use Compton)
+  - Solarized colors
+
+
 Running st
 ----------
 If you did not install st with make clean install, you must compile
