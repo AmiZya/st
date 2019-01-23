@@ -22,7 +22,7 @@ necessary as root):
 Applied Patches
 ---------------
 
-  - Alpha patch for transparency (Must use Compton)
+  - Alpha patch for transparency. This file is included in the code. (Must use Compton)
   - Solarized colors
 
 
